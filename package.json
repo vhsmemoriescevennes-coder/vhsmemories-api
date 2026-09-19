@@ -1,0 +1,12 @@
+{
+  "name": "vhsmemories-api",
+  "version": "1.0.0",
+  "description": "VhsMemories API",
+  "main": "api/index.js",
+  "scripts": {
+    "dev": "node api/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
